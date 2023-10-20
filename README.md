@@ -1,6 +1,10 @@
 <h1 align="center">HOLA AMIGOS👋, estoy Mohammed Almahdood</h1>
 <h3 align="center">Software engineering student at KFUPM</h3>
 
+- 🌱 I’m currently learning **web development as well as Flutter**
+
+- 👯 I’m looking to collaborate **on whatever opportunity I get**
+
 - ⚡ Fun fact **I love cats & Parrots**
 
 <h3 align="left">Connect with me:</h3>
